@@ -1,0 +1,18 @@
+{
+  "name"         : "@alikhan/facebook-graph-data-analysis-using-kmeans-clustering-nodejs",
+  "version"      : "0.0.1",
+  "description"  : "Facebook Graph Data Analysis Of Popular Fan Pages Using Kmeans Clustering Algorithm & Nodejs",
+  "main"         : "server.js",
+  "author"       : "Ali khan",
+  "email"		 : "p2p.alikhan@gmail.com", 	    
+  "dependencies": {    
+    "facebook-search": "latest",
+    "fbgraph": "latest",
+	"bluebird": "latest",
+    "json2csv": "latest",
+    "jsonfile": "latest",
+    "lodash": "latest",
+    "node-kmeans": "latest",
+    "request": "latest"
+  }
+}
